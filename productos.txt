@@ -1,0 +1,10 @@
+﻿Cetaphil Limpiador,c1,250,10,12/05/2027,Limpieza
+Protector Solar ISDIN,c2,480,15,10/11/2026,Dermatológico
+CeraVe Crema,c3,320,8,05/09/2027,Crema
+Eucerin Anti-Pigment,c4,650,5,20/03/2027,Dermatológico
+Gel Limpiador La Roche,c5,410,12,14/08/2026,Limpieza
+Benzac AC,c6,290,7,01/12/2026,Medicamento
+Vitamina C Vichy,c7,720,4,18/06/2027,Crema
+Neutrogena Hydro Boost,c8,350,9,30/10/2026,Crema
+Adapaleno Gel,c9,390,6,25/01/2027,Medicamento
+Agua Micelar Bioderma,c10,280,11,11/04/2027,Limpieza
